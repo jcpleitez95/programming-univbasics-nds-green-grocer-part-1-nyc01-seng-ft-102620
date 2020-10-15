@@ -9,9 +9,10 @@ def find_item_by_name_in_collection(name, collection)
 end
 
 def consolidate_cart(cart)
-  new_counter = []
+  new_cart = []
   counter = 0 
   while counter < cart.length do
+    ne
 end
 
 
